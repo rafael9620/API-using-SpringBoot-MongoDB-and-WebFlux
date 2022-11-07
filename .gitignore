@@ -21,3 +21,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/mongo-data/_mdb_catalog.wt
+/mongo-data/collection-0--10227875874607149.wt
+/mongo-data/collection-2--10227875874607149.wt
+/mongo-data/collection-4--10227875874607149.wt
+/mongo-data/collection-7--10227875874607149.wt
+/.idea/sonarlint/issuestore/index.pb
+/mongo-data/index-1--10227875874607149.wt
+/mongo-data/index-3--10227875874607149.wt
+/mongo-data/index-5--10227875874607149.wt
+/mongo-data/index-6--10227875874607149.wt
+/mongo-data/index-8--10227875874607149.wt
+/mongo-data/index-9--10227875874607149.wt
+/mongo-data/mongod.lock
+/mongo-data/sizeStorer.wt
+/mongo-data/storage.bson
+/mongo-data/WiredTiger
+/mongo-data/WiredTiger.lock
+/mongo-data/WiredTiger.turtle
+/mongo-data/WiredTiger.wt
+/mongo-data/WiredTigerHS.wt
