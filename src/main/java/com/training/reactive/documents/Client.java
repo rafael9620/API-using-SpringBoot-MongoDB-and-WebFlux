@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 
-@Document(collation = "clients")
+@Document("clients")
 @Data
 public class Client {
     @Id

@@ -1,1 +1,7 @@
+com/training/reactive/documentacion/SwaggerConfig.class
+com/training/reactive/documents/Client.class
 com/training/reactive/ApiUsingSpringBootMongoDbAndWebFluxApplication.class
+com/training/reactive/service/ClientService.class
+com/training/reactive/repository/ClientRespository.class
+com/training/reactive/service/impl/ClientServiceImpl.class
+com/training/reactive/controllers/ClientController.class
